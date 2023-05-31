@@ -1,0 +1,21 @@
+body {
+    background-color: #1C2833;
+    color: aliceblue;
+}
+nav ul li {
+    margin-left: 20px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+    opacity: 0.85;
+    top: 0px;
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
